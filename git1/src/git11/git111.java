@@ -7,6 +7,6 @@ public class git111 {
 	public static void print(){}
 	
 public static void main(String[] args) {
-	
+	git111 aGit111=new git111();
 }
 }
